@@ -1,0 +1,8 @@
+WORA(Write Once Run AnyWhere)
+java is independent platform bcz ot this byte code concept bcz of across all the platform
+byte code will be understood by the jvm not by the nrml users
+ along vth jdk, jvm also will be there and jre as well 
+if any device is having jdk we can run the clss file in that.
+.clss file contains byte codes.
+note: .clss file it self is not platform independent but the byte code which is available vth in the .clss file.
+While executing in other platforms(os) we dont need to change the source code regrding tp the system architecture,thnks tobytecode nd JVM.

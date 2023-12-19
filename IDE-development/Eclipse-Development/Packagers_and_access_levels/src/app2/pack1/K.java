@@ -1,0 +1,15 @@
+package app2.pack1;
+class K 
+{
+	private K()
+	{
+		System.out.println("F()");
+	}
+}
+//class K extends J
+//{
+//	G()
+//	{
+//		super();
+//    }
+}
